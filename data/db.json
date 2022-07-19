@@ -1,0 +1,11 @@
+{
+  "blogs": [
+    {
+      "title": "Deepak",
+      "desc": "Developer",
+      "author": "Deepak",
+      "cont": "A wiki is a collaborative space where anyone who visits the site can edit, share, or publish content -- Wikipedia is one of the most popular examples of this. On the other hand, there is typically only one person, or a team of people, with admin permissions to edit, share, or publish to a blog. Website visitors who come across the blog can potentially leave comments at the bottom of the blog post, but they cannot publish to the site or edit the posted material.",
+      "id": "2"
+    }
+  ]
+}
