@@ -5,7 +5,7 @@ import Create from './Create';
 import Blogdetails from './Blogdetails';
 import NotFound from './NotFound';
 
-
+//npx json-server --watch data/db.json --port 8000
 function App() {
   return (
     <Router>
